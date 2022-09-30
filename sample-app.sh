@@ -1,4 +1,5 @@
 #!/bin/bash
+# updated comments 
 
 mkdir tempdir
 mkdir tempdir/templates
