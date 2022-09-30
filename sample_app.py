@@ -11,4 +11,4 @@ def main():
 
 if __name__ == "__main__":
     #updated again and again and again
-    sample.run(host="0.0.0.0", port=8080)
+    sample.run(host="0.0.0.0", port=5050)
